@@ -197,6 +197,7 @@ h1 {
 @media only screen and (max-width: 768px) {
   body {
     font-size: 8px;
+    height: 100%;
   }
   main {
     padding-top: 18vh;
