@@ -6,14 +6,14 @@
 
 body {
   font: 700 14px/1 'Red Hat Text', sans-serif;
-  background: url("../images/bg-stars.svg"), #1b1924;
+  background: url("./images/bg-stars.svg"), #1b1924;
   height: 100vh;
   margin: 0;
 }
 
 main {
   height: 100vh;
-  background: url(../images/pattern-hills.svg) no-repeat 0 bottom;
+  background: url(./images/pattern-hills.svg) no-repeat 0 bottom;
   background-size: contain;
   display: flex;
   flex-flow: column nowrap;
