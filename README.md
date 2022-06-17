@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://hanningtonem.github.io/LeaderBoard/)
+[Live Demo Link](https://hanningtonem.github.io/Count-down-Timer/)
 
 ## Welcome! 👋
 
