@@ -5,7 +5,7 @@
 }
 
 body {
-  font: 700 14px/1 'Red Hat Text', sans-serif;
+  font: 700 14px/1 'Cormorant Upright', serif;
   background: url("images/bg-stars.svg"), #1b1924;
   height: 100vh;
   margin: 0;
@@ -24,7 +24,7 @@ main {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 4em;
   margin: 19px 0 109px;
   letter-spacing: 8px;
   color: #fff;
