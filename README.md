@@ -1,6 +1,10 @@
 # Frontend Mentor - Launch countdown timer
 
-![Design preview for the Launch countdown timer coding challenge]()
+![Design preview for the Launch countdown timer coding challenge](<img src="images/frontend.png" alt="">)
+
+## Live Demo
+
+[Live Demo Link](https://hanningtonem.github.io/LeaderBoard/)
 
 ## Welcome! 👋
 
